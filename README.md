@@ -1,4 +1,16 @@
-         ___        ______     ____ _                 _  ___  
+when first your pull was done , you do next command in terminal
+'composer update'
+
+
+you connect the database
+
+
+
+
+
+
+
+___        ______     ____ _                 _  ___  
         / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
        / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
@@ -12,3 +24,4 @@ To get started, create some files, play with the terminal,
 or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
 
 Happy coding!
+
